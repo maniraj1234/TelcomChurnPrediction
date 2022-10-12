@@ -15,9 +15,12 @@ This repo is aimed at identifying weather a telcom customer would churn or not.
 - Target variable: churn_probability  
 
 ## Contents of this project
+- telcomchurncasestudy.ipynb: this notebook is aimed at higher accuracy and precesion.
+- telcomchurncasestudyExplainableModel.ipynb: this notebook is aimed at explainability of the model and features.
+- solution.csv: this is the predictions of the test data.
 
 ## Conclusions
-
+with random forest and decesion trees, more than 93% of accuracy and precesion was achieved. 
 
 ## Technologies Used
 - python 3
